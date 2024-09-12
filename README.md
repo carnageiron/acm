@@ -1,5 +1,5 @@
 # acm
 
-![Screenshot 1](TicTacToe\screenshots\Screenshot 2024-09-12 223711.png)
-![Screenshot 2](TicTacToe\screenshots\Screenshot 2024-09-12 223724.png)
-![Screenshot 3](TicTacToe\screenshots\Screenshot 2024-09-12 223738.png)
+![Screenshot 1](https://github.com/carnageiron/acm/blob/main/TicTacToe/screenshots/Screenshot%202024-09-12%20223711.png)
+![Screenshot 2](https://github.com/carnageiron/acm/blob/main/TicTacToe/screenshots/Screenshot%202024-09-12%20223724.png)
+![Screenshot 3](https://github.com/carnageiron/acm/blob/main/TicTacToe/screenshots/Screenshot%202024-09-12%20223738.png)
